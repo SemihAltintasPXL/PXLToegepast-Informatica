@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd01259b-34c8-4627-91dd-8e9598527560" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oeQLLzgWjSkSE0sDyYwRQpO9oE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.demoTypeCoercion.js">
+    <configuration name="demoindex" type="JavascriptDebugType" uri="http://localhost:63342/demo1/index.html" useFirstLineBreakpoints="true" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="demoComparison.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demoComparison.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="demoTypeCoercion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demoTypeCoercion.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="demoWrapping.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demoWrapping.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="primTypeDemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/primTypeDemo.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="stringDemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/stringDemo.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.demoindex" />
+      <item itemvalue="Node.js.stringDemo.js" />
+      <item itemvalue="Node.js.primTypeDemo.js" />
+      <item itemvalue="Node.js.demoWrapping.js" />
+      <item itemvalue="Node.js.demoComparison.js" />
+      <item itemvalue="Node.js.demoTypeCoercion.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.demoTypeCoercion.js" />
+        <item itemvalue="Node.js.demoComparison.js" />
+        <item itemvalue="Node.js.demoWrapping.js" />
+        <item itemvalue="Node.js.primTypeDemo.js" />
+        <item itemvalue="Node.js.stringDemo.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd01259b-34c8-4627-91dd-8e9598527560" name="Default Changelist" comment="" />
+      <created>1613644519165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613644519165</updated>
+      <workItem from="1613644520206" duration="3288000" />
+      <workItem from="1613737984266" duration="3267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613645858509">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613645858509" />
+    <state x="548" y="165" key="FileChooserDialogImpl" timestamp="1613644709646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="165" key="FileChooserDialogImpl/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613644709646" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1613742148974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613742148974" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1613742148974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613742148974" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1613742148974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613742148974" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1613742148974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613742148974" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.2.center" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.2.left" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.2.right" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.3.left" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right" timestamp="1613647810383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613647810383" />
+    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1613645069903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.-108.1600.1160@0.0.1536.824" timestamp="1613645069903" />
+  </component>
+</project>
