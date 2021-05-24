@@ -1,0 +1,15 @@
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\bin\Debug\SecondDrawing.exe.config
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\bin\Debug\SecondDrawing.exe
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\bin\Debug\SecondDrawing.pdb
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\SecondDrawing.csprojAssemblyReference.cache
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\MainWindow.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\App.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\SecondDrawing_MarkupCompile.cache
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\SecondDrawing_MarkupCompile.lref
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\MainWindow.baml
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\SecondDrawing.g.resources
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\SecondDrawing.Properties.Resources.resources
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\SecondDrawing.csproj.GenerateResource.cache
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\SecondDrawing.csproj.CoreCompileInputs.cache
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\SecondDrawing.exe
+C:\Users\MMsem\net essentials\Hoofdstuk3\SecondDrawing\obj\Debug\SecondDrawing.pdb

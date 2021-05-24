@@ -1,0 +1,19 @@
+﻿<Window x:Class="oefening6._3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:oefening6._3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Name="btnGenerate" Content="Generate" HorizontalAlignment="Left" Margin="140,71,0,0" VerticalAlignment="Top" Width="75" Click="btnGenerate_Click"/>
+        <Label Content="The number is" HorizontalAlignment="Left" Margin="140,150,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.958,0.234"/>
+        <Label Content="The sum of these numbers is " HorizontalAlignment="Left" Margin="140,200,0,0" VerticalAlignment="Top"/>
+        <Label Content="The average of these 3 numbers is" HorizontalAlignment="Left" Margin="140,250,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txtNumber"  HorizontalAlignment="Left" Height="23" Margin="350,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="txtSum" HorizontalAlignment="Left" Height="23" Margin="350,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="txtAverage" HorizontalAlignment="Left" Height="23" Margin="350,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

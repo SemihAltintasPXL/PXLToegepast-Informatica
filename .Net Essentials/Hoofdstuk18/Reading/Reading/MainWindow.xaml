@@ -1,0 +1,18 @@
+﻿<Window x:Class="Reading.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Reading"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="outputTextBox" HorizontalAlignment="Left" Height="288" Margin="108,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="321"/>
+        <Button Content="Reading1" Name="reading1Button" HorizontalAlignment="Left" Margin="503,84,0,0" VerticalAlignment="Top" Width="75" Click="reading1Button_Click"/>
+        <Button Content="Reading2" Name="reading2Button" HorizontalAlignment="Left" Margin="503,141,0,0" VerticalAlignment="Top" Width="75" Click="reading2Button_Click"/>
+        <Button Content="Reading3" Name="reading3Button" HorizontalAlignment="Left" Margin="503,213,0,0" VerticalAlignment="Top" Width="75" Click="reading3Button_Click"/>
+        <Button Content="Reading4" Name="reading4Button" HorizontalAlignment="Left" Margin="503,279,0,0" VerticalAlignment="Top" Width="75" Click="reading4Button_Click"/>
+        <Button Content="Reading5" Name="reading5Button" HorizontalAlignment="Left" Margin="503,339,0,0" VerticalAlignment="Top" Width="75" Click="reading5Button_Click"/>
+
+    </Grid>
+</Window>

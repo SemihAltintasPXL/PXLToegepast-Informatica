@@ -1,0 +1,18 @@
+﻿<Window x:Class="Example1Polymorfisme.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Example1Polymorfisme"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="600">
+    <Grid>
+        <Button Content="Sphere" Name="_0sphereButton" HorizontalAlignment="Left" Margin="77,68,0,0" VerticalAlignment="Top" Width="137" Click="sphereButton_Click"/>
+        <Canvas ClipToBounds="True" Background="Lavender" Name="paperCanvas" HorizontalAlignment="Left" Height="300" Margin="249,68,0,0" VerticalAlignment="Top" Width="255"/>
+        <Button Content="ColoredSphere" Name="_1coloredSphereButton" HorizontalAlignment="Left" Margin="77,132,0,0" VerticalAlignment="Top" Width="137" Click="ColoredSphereButton_Click"/>
+        <Button Content="Square" Name="_2squareButton" HorizontalAlignment="Left" Margin="77,204,0,0" VerticalAlignment="Top" Width="137" Click="squareButton_Click"/>
+        <Button Content="Triangle" Name="_3triangleButton" HorizontalAlignment="Left" Margin="81,280,0,0" VerticalAlignment="Top" Width="133" Click="triangleButton_Click"/>
+        <TextBlock Name="outputTextBlock" HorizontalAlignment="Left" Margin="81,410,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

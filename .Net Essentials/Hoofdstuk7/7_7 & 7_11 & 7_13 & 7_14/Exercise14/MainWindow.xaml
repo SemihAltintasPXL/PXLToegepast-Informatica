@@ -1,0 +1,32 @@
+﻿<Window x:Class="Exercise14.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise14"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <GroupBox Header="Geslacht" HorizontalAlignment="Left" Height="53" VerticalAlignment="Top" Width="212" Margin="107,101,0,0">
+            <Grid>
+                <RadioButton Name="manRadioButton" Content="Man" HorizontalAlignment="Left" Margin="23,10,0,0" VerticalAlignment="Top"/>
+                <RadioButton Name="vrouwRadioButton" Content="Vrouw" HorizontalAlignment="Left" Margin="90,10,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Leeftijd" HorizontalAlignment="Left" Height="120" Margin="107,159,0,0" VerticalAlignment="Top" Width="212">
+            <Grid>
+                <RadioButton Name="tussen18en30RadioButton" Content="tussen 18 en 30" HorizontalAlignment="Left" Margin="23,16,0,0" VerticalAlignment="Top"/>
+                <RadioButton Name="tussen30en45RadioButton" Content="tussen 30 en 45" HorizontalAlignment="Left" Margin="23,36,0,0" VerticalAlignment="Top"/>
+                <RadioButton Name="tussen45en60RadioButton" Content="tussen 45 en 60" HorizontalAlignment="Left" Margin="23,76,0,0" VerticalAlignment="Top"/>
+                <RadioButton Name="ouderdan60RadioButton" Content="ouder dan 60" HorizontalAlignment="Left" Margin="23,56,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <Label Content="Naam:" HorizontalAlignment="Left" Margin="107,21,0,0" VerticalAlignment="Top"/>
+        <Label Content="Voornaam:" HorizontalAlignment="Left" Margin="107,54,0,0" VerticalAlignment="Top"/>
+        
+        <Button Name="berekenButton" Content="Bereken" HorizontalAlignment="Left" Margin="244,284,0,0" VerticalAlignment="Top" Width="75" Click="berekenButton_Click"/>
+        <TextBox Name="naamTextBox" HorizontalAlignment="Left" Height="23" Margin="187,25,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="voornaamTextBox" HorizontalAlignment="Left" Height="23" Margin="187,57,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

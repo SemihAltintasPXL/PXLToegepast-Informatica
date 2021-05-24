@@ -1,0 +1,20 @@
+﻿<Window x:Class="oefening7._14.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:oefening7._14"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Naam:" HorizontalAlignment="Left" Margin="130,82,0,0" VerticalAlignment="Top"/>
+        <Label Content="Voornaam:" HorizontalAlignment="Left" Margin="130,131,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="234,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="234,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+        <RadioButton Content="Man" HorizontalAlignment="Left" Margin="165,237,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Vrouw" HorizontalAlignment="Left" Margin="234,237,0,0" VerticalAlignment="Top"/>
+        <GroupBox Header="GroupBox" HorizontalAlignment="Left" Height="39" Margin="165,213,0,0" VerticalAlignment="Top" Width="145"/>
+
+    </Grid>
+</Window>

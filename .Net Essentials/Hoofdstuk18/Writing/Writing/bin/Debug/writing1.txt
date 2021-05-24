@@ -1,0 +1,5 @@
+gegevens wegschrijven naar ...\bin\debug
+Werkt het nu wel???
+Alles....
+FileSTremas zijn bijna gedaan. Op naar het volgede
+

@@ -1,0 +1,11 @@
+﻿<Window x:Class="DomineeringGame.MovesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MovesWindow" Height="403.284" Width="386.229">
+    <Grid>
+        <TextBlock Name="outputTextBlock" HorizontalAlignment="Left" Margin="57,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="325" Width="259" ScrollViewer.CanContentScroll="True"/>
+    </Grid>
+</Window>

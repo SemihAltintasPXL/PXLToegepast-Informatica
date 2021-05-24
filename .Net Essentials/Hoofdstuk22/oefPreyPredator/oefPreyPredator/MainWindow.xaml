@@ -1,0 +1,20 @@
+﻿<Window x:Class="oefPreyPredator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:oefPreyPredator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Ronde: " HorizontalAlignment="Left" Margin="58,60,0,0" VerticalAlignment="Top"/>
+        <Label Content="Aantal lieveheersbeesjes" HorizontalAlignment="Left" Margin="58,100,0,0" VerticalAlignment="Top"/>
+        <Label Content="Aantal luizen" HorizontalAlignment="Left" Margin="58,140,0,0" VerticalAlignment="Top"/>
+        <TextBlock Name="roundTextBlock" HorizontalAlignment="Left" Margin="230,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" Width="167"/>
+        <TextBlock Name="ladybugTextBlock" HorizontalAlignment="Left" Margin="230,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" Width="167"/>
+        <TextBlock Name="louseTextBlock" HorizontalAlignment="Left" Margin="230,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" Width="167"/>
+        <Button Content="Volgende ronde" HorizontalAlignment="Left" Margin="58,207,0,0" VerticalAlignment="Top" Width="100" Click="Button_Click"/>
+        <Canvas ClipToBounds="False" Name="paperCanvas" HorizontalAlignment="Left" Height="221" Margin="188,189,0,0" VerticalAlignment="Top" Width="306"/>
+
+    </Grid>
+</Window>

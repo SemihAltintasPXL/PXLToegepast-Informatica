@@ -1,0 +1,75 @@
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\bin\Debug\Opdracht_10_8.exe.config
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\bin\Debug\Opdracht_10_8.exe
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\bin\Debug\Opdracht_10_8.pdb
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.csprojResolveAssemblyReference.cache
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\MainWindow.g.cs
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\App.g.cs
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8_MarkupCompile.cache
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8_MarkupCompile.lref
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\MainWindow.baml
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.g.resources
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.Properties.Resources.resources
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.csproj.GenerateResource.cache
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.csproj.CoreCompileInputs.cache
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.exe
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.pdb
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\bin\Debug\Opdracht_10_8.exe.config
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\bin\Debug\Opdracht_10_8.exe
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\bin\Debug\Opdracht_10_8.pdb
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.csprojResolveAssemblyReference.cache
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\MainWindow.g.cs
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\App.g.cs
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8_MarkupCompile.cache
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8_MarkupCompile.lref
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\MainWindow.baml
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.g.resources
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.Properties.Resources.resources
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.csproj.GenerateResource.cache
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.csproj.CoreCompileInputs.cache
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.exe
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H10\Opgaven\10_8\Opdracht_10_8\obj\Debug\Opdracht_10_8.pdb
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\bin\Debug\Opdracht_10_8.exe.config
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\bin\Debug\Opdracht_10_8.exe
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\bin\Debug\Opdracht_10_8.pdb
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.csprojResolveAssemblyReference.cache
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\MainWindow.g.cs
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\App.g.cs
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8_MarkupCompile.cache
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8_MarkupCompile.lref
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\MainWindow.baml
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.g.resources
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.Properties.Resources.resources
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.csproj.GenerateResource.cache
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.csproj.CoreCompileInputs.cache
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.exe
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.pdb
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\bin\Debug\Opdracht_10_8.exe.config
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\bin\Debug\Opdracht_10_8.exe
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\bin\Debug\Opdracht_10_8.pdb
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.csprojResolveAssemblyReference.cache
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\MainWindow.g.cs
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\App.g.cs
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8_MarkupCompile.cache
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8_MarkupCompile.lref
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\MainWindow.baml
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.g.resources
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.Properties.Resources.resources
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.csproj.GenerateResource.cache
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.csproj.CoreCompileInputs.cache
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.exe
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\H11\Opgaven\11_7\obj\Debug\Opdracht_10_8.pdb
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\bin\Debug\Opdracht_10_8.exe.config
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\bin\Debug\Opdracht_10_8.exe
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\bin\Debug\Opdracht_10_8.pdb
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\Opdracht_10_8.csprojAssemblyReference.cache
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\MainWindow.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\App.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\Opdracht_10_8_MarkupCompile.cache
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\Opdracht_10_8_MarkupCompile.lref
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\MainWindow.baml
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\Opdracht_10_8.g.resources
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\Opdracht_10_8.Properties.Resources.resources
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\Opdracht_10_8.csproj.GenerateResource.cache
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\Opdracht_10_8.csproj.CoreCompileInputs.cache
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\Opdracht_10_8.exe
+C:\Users\MMsem\net essentials\Hoofdstuk11\11_7\obj\Debug\Opdracht_10_8.pdb

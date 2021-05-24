@@ -1,0 +1,5 @@
+C:\Users\12000865\Downloads\oefPreyPredator\oefPreyPredator\obj\Debug\oefPreyPredator.csprojAssemblyReference.cache
+C:\Users\12000865\Downloads\oefPreyPredator\oefPreyPredator\obj\Debug\MainWindow.g.cs
+C:\Users\12000865\Downloads\oefPreyPredator\oefPreyPredator\obj\Debug\App.g.cs
+C:\Users\12000865\Downloads\oefPreyPredator\oefPreyPredator\obj\Debug\oefPreyPredator_MarkupCompile.cache
+C:\Users\12000865\Downloads\oefPreyPredator\oefPreyPredator\obj\Debug\oefPreyPredator_MarkupCompile.lref

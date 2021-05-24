@@ -1,0 +1,15 @@
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\bin\Debug\Example.exe.config
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\bin\Debug\Example.exe
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\bin\Debug\Example.pdb
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\MainWindow.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\App.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\Example_MarkupCompile.cache
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\Example_MarkupCompile.lref
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\MainWindow.baml
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\Example.g.resources
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\Example.Properties.Resources.resources
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\Example.csproj.GenerateResource.cache
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\Example.exe
+C:\Users\MMsem\net essentials\Hoofdstuk4\Example\obj\Debug\Example.pdb

@@ -1,0 +1,69 @@
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\bin\Debug\Some Shapes.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\bin\Debug\Some Shapes.exe
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\bin\Debug\Some Shapes.pdb
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\Some Shapes_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\Some Shapes.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\Some_Shapes.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\Some Shapes.csproj.GenerateResource.Cache
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\Some Shapes.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\Some Shapes.exe
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\Some Shapes.pdb
+C:\Users\20002375\Documents\Ingrid\C#\boekcode\h03\h03\Some Shapes\obj\Debug\Some Shapes.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\Some Shapes_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\bin\Debug\Some Shapes.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\bin\Debug\Some Shapes.exe
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\bin\Debug\Some Shapes.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\Some_Shapes.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20182019\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.exe
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\bin\Debug\Some Shapes.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\bin\Debug\Some Shapes.exe
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\Some Shapes_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\Some_Shapes.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.exe
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20192020\bestanden\H3\Some Shapes\bin\Debug\Some Shapes.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\bin\Debug\Some Shapes.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\bin\Debug\Some Shapes.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\bin\Debug\Some Shapes.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\Some Shapes_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\Some_Shapes.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\bestanden\H3\Some Shapes\obj\Debug\Some Shapes.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\bin\Debug\Some Shapes.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\bin\Debug\Some Shapes.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\Some Shapes.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\Some Shapes_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\Some Shapes.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\Some_Shapes.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\Some Shapes.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\Some Shapes.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\Some Shapes.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\voorstudenten\H3\Some Shapes\obj\Debug\Some Shapes.pdb

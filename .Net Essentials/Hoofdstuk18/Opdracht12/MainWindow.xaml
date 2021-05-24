@@ -1,0 +1,21 @@
+﻿<Window x:Class="Opdracht12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opdracht12"
+        mc:Ignorable="d"
+        Title="Oef18.7" Height="160" Width="570">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="40,31,0,0"
+                   Text="C:\" Background="Azure" VerticalAlignment="Top" Width="394"
+                   Name="folderTextBlock"/>
+        <Button Content="Browse" HorizontalAlignment="Left" Margin="443,28,0,0"
+                VerticalAlignment="Top" Width="75" Name="browseButton" Click="browseButton_Click" />
+        <Button Content="Count" HorizontalAlignment="Left" Margin="40,73,0,0"
+                VerticalAlignment="Top" Width="75" Name="countButton" Click="countButton_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="147,74,0,0"
+                   Background="LightYellow" VerticalAlignment="Top" Width="371"
+                   Name="resultTextBlock" Height="28"/>
+    </Grid>
+</Window>

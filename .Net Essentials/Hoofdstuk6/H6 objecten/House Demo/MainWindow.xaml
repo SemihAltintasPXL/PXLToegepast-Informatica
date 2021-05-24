@@ -1,0 +1,15 @@
+﻿<Window x:Class="House_Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="House Demo" Height="350" Width="300">
+    <Grid>
+        <Button Content="Draw" HorizontalAlignment="Left"
+                Margin="10,10,0,0" VerticalAlignment="Top"
+                Width="75" Name="drawButton" Click="drawButton_Click" Height="19"/>
+        <Canvas HorizontalAlignment="Left" Height="195"
+                Margin="90,10,0,0" VerticalAlignment="Top" Width="190"
+                Name="paperCanvas" Background="LightGray"/>
+        <Slider Name="xSlider" IsEnabled="False" IsSnapToTickEnabled="True" TickFrequency="10" TickPlacement="BottomRight" HorizontalAlignment="Left" Margin="90,231,0,0" VerticalAlignment="Top" Width="190" />
+        <Label Name="positionXLabel" HorizontalAlignment="Left" Margin="19,276,0,0" VerticalAlignment="Top" Width="261" Height="23"/>
+    </Grid>
+</Window>

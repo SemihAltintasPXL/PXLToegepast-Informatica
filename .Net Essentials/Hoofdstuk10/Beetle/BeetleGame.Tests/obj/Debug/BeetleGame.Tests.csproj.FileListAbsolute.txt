@@ -1,0 +1,88 @@
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.Tests.dll.config
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.Tests.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.Tests.pdb
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.exe
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Guts.Client.Classic.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Guts.Client.Classic.UI.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Guts.Client.Shared.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Buffers.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Memory.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.pdb
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.exe.config
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Buffers.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Collections.Immutable.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Memory.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\obj\Debug\BeetleGame.Tests.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\obj\Debug\BeetleGame.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\obj\Debug\BeetleGame.Tests.csproj.CopyComplete
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\obj\Debug\BeetleGame.Tests.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\obj\Debug\BeetleGame.Tests.pdb
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\nunit.engine.dll
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\nunit.engine.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.Tests.dll.config
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.Tests.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.Tests.pdb
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.exe
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Guts.Client.Classic.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Guts.Client.Classic.UI.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Guts.Client.Shared.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Buffers.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Collections.Immutable.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Memory.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.pdb
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\BeetleGame.exe.config
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Buffers.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Collections.Immutable.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Memory.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\obj\Debug\BeetleGame.Tests.csprojAssemblyReference.cache
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\obj\Debug\BeetleGame.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\obj\Debug\BeetleGame.Tests.csproj.CopyComplete
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\obj\Debug\BeetleGame.Tests.dll
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame.Tests\obj\Debug\BeetleGame.Tests.pdb

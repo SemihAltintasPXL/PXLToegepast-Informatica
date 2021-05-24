@@ -1,0 +1,15 @@
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\bin\Debug\Example2Polymorfisme.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\bin\Debug\Example2Polymorfisme.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\bin\Debug\Example2Polymorfisme.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\Example2Polymorfisme.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\Example2Polymorfisme_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\Example2Polymorfisme_MarkupCompile.lref
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\Example2Polymorfisme.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\Example2Polymorfisme.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\Example2Polymorfisme.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\Example2Polymorfisme.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\Example2Polymorfisme.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H23\Example2Polymorfisme\obj\Debug\Example2Polymorfisme.pdb

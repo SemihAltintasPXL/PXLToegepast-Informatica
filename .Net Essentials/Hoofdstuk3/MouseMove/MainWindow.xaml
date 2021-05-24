@@ -1,0 +1,17 @@
+﻿<Window x:Class="MouseMove.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MouseMove"
+        mc:Ignorable="d"
+        Title="MouseMove" Height="650" Width="800">
+    <Grid>
+        <Canvas Name="paperCanvas" Background ="LightBlue" HorizontalAlignment="Left" Height="287" Margin="43,27,0,0" VerticalAlignment="Top" Width="258" MouseMove="paperCanvas_MouseMove"/>
+        <Label Content="Position Canvas" HorizontalAlignment="Left" Margin="43,351,0,0" VerticalAlignment="Top"/>
+        <TextBlock Name="outputTextBlock" HorizontalAlignment="Left" Margin="142,351,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="26" Width="92"/>
+        <Label Content="Position MainWindow" HorizontalAlignment="Left" Margin="43,424,0,0" VerticalAlignment="Top"/>
+        <TextBlock Name="outputWindowTextBlock" HorizontalAlignment="Left" Margin="212,424,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

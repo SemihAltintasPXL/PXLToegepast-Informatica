@@ -1,0 +1,15 @@
+C:\Users\MMsem\net essentials\Example2\bin\Debug\Example2.exe.config
+C:\Users\MMsem\net essentials\Example2\bin\Debug\Example2.exe
+C:\Users\MMsem\net essentials\Example2\bin\Debug\Example2.pdb
+C:\Users\MMsem\net essentials\Example2\obj\Debug\Example2.csprojAssemblyReference.cache
+C:\Users\MMsem\net essentials\Example2\obj\Debug\MainWindow.g.cs
+C:\Users\MMsem\net essentials\Example2\obj\Debug\App.g.cs
+C:\Users\MMsem\net essentials\Example2\obj\Debug\Example2_MarkupCompile.cache
+C:\Users\MMsem\net essentials\Example2\obj\Debug\Example2_MarkupCompile.lref
+C:\Users\MMsem\net essentials\Example2\obj\Debug\MainWindow.baml
+C:\Users\MMsem\net essentials\Example2\obj\Debug\Example2.g.resources
+C:\Users\MMsem\net essentials\Example2\obj\Debug\Example2.Properties.Resources.resources
+C:\Users\MMsem\net essentials\Example2\obj\Debug\Example2.csproj.GenerateResource.cache
+C:\Users\MMsem\net essentials\Example2\obj\Debug\Example2.csproj.CoreCompileInputs.cache
+C:\Users\MMsem\net essentials\Example2\obj\Debug\Example2.exe
+C:\Users\MMsem\net essentials\Example2\obj\Debug\Example2.pdb

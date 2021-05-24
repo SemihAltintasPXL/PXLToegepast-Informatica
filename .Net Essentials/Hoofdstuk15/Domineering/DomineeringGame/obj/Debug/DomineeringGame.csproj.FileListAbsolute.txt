@@ -1,0 +1,17 @@
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\bin\Debug\DomineeringGame.exe.config
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\bin\Debug\DomineeringGame.exe
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\bin\Debug\DomineeringGame.pdb
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\DomineeringGame.csprojResolveAssemblyReference.cache
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\MainWindow.g.cs
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\App.g.cs
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\DomineeringGame_MarkupCompile.cache
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\DomineeringGame_MarkupCompile.lref
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\MainWindow.baml
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\DomineeringGame.g.resources
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\DomineeringGame.Properties.Resources.resources
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\DomineeringGame.csproj.GenerateResource.cache
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\DomineeringGame.csproj.CoreCompileInputs.cache
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\DomineeringGame.exe
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\DomineeringGame.pdb
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\MovesWindow.g.cs
+C:\Users\11700247\Dropbox\Workspaces\dotNET Essentials\Extra's\Domineering\DomineeringGame\obj\Debug\MovesWindow.baml

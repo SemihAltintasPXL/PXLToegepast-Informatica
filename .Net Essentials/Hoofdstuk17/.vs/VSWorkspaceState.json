@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Example1Exception",
+    "\\Example1Exception\\Properties",
+    "\\Example2Exception",
+    "\\Example2Exception\\Example2Exception"
+  ],
+  "SelectedNode": "\\Example2Exception\\Example2Exception\\StartWindow.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}

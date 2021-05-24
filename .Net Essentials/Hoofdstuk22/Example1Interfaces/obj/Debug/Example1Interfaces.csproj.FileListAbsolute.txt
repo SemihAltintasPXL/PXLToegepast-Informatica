@@ -1,0 +1,15 @@
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\Example1Interfaces.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\Example1Interfaces_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\Example1Interfaces_MarkupCompile.lref
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\bin\Debug\Example1Interfaces.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\bin\Debug\Example1Interfaces.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\bin\Debug\Example1Interfaces.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\Example1Interfaces.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\Example1Interfaces.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\Example1Interfaces.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\Example1Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\Example1Interfaces.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TIND\H22\Example1Interfaces\obj\Debug\Example1Interfaces.pdb

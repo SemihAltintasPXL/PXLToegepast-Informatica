@@ -1,0 +1,15 @@
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\bin\Debug\oefening5.15.exe.config
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\bin\Debug\oefening5.15.exe
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\bin\Debug\oefening5.15.pdb
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\oefening5.15.csprojAssemblyReference.cache
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\MainWindow.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\App.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\oefening5.15_MarkupCompile.cache
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\oefening5.15_MarkupCompile.lref
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\MainWindow.baml
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\oefening5.15.g.resources
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\oefening5._15.Properties.Resources.resources
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\oefening5.15.csproj.GenerateResource.cache
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\oefening5.15.csproj.CoreCompileInputs.cache
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\oefening5.15.exe
+C:\Users\MMsem\net essentials\Hoofdstuk 5\oefening5.15\obj\Debug\oefening5.15.pdb

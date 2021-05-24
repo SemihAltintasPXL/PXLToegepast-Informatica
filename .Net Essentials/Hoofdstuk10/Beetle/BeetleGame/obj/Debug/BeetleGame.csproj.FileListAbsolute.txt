@@ -1,0 +1,60 @@
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\bin\Debug\BeetleGame.exe.config
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\bin\Debug\BeetleGame.exe
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\bin\Debug\BeetleGame.pdb
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\MainWindow.g.cs
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\App.g.cs
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame_MarkupCompile.cache
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame_MarkupCompile.lref
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\MainWindow.baml
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.g.resources
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.Properties.Resources.resources
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.exe
+C:\Users\mehme\Desktop\school\.net essentials\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.pdb
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.csprojAssemblyReference.cache
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\MainWindow.g.cs
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\App.g.cs
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame_MarkupCompile.cache
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame_MarkupCompile.lref
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.exe
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.pdb
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\bin\Debug\BeetleGame.exe.config
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\bin\Debug\BeetleGame.exe
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\bin\Debug\BeetleGame.pdb
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\MainWindow.baml
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.g.resources
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Bureaublad\school\.NET essentials\.net essentials 2021\Guts-DotNetEssentials\Chapter10\BeetleGame\obj\Debug\BeetleGame.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\bin\Debug\BeetleGame.exe.config
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\bin\Debug\BeetleGame.exe
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\bin\Debug\BeetleGame.pdb
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\BeetleGame.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\BeetleGame_MarkupCompile.cache
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\BeetleGame_MarkupCompile.lref
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\BeetleGame.g.resources
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\BeetleGame.Properties.Resources.resources
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\BeetleGame.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\BeetleGame.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\BeetleGame.exe
+C:\Users\20002375\Documents\studenten\Chapter10_mehmet\Chapter10\BeetleGame\obj\Debug\BeetleGame.pdb
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\bin\Debug\BeetleGame.exe.config
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\bin\Debug\BeetleGame.exe
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\bin\Debug\BeetleGame.pdb
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\BeetleGame.csprojAssemblyReference.cache
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\MainWindow.g.cs
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\App.g.cs
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\BeetleGame_MarkupCompile.cache
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\BeetleGame_MarkupCompile.lref
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\MainWindow.baml
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\BeetleGame.g.resources
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\BeetleGame.Properties.Resources.resources
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\BeetleGame.csproj.GenerateResource.cache
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\BeetleGame.csproj.CoreCompileInputs.cache
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\BeetleGame.exe
+C:\Users\MMsem\PXLToegepast-Informatica\.Net Essentials\Hoofdstuk10\Beetle\BeetleGame\obj\Debug\BeetleGame.pdb

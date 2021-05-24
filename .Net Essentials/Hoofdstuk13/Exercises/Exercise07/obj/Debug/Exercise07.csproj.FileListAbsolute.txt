@@ -1,0 +1,30 @@
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\bin\Debug\Exercise07.exe.config
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\bin\Debug\Exercise07.exe
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\bin\Debug\Exercise07.pdb
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\Exercise07.csprojResolveAssemblyReference.cache
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\MainWindow.g.cs
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\App.g.cs
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\Exercise07_MarkupCompile.cache
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\Exercise07_MarkupCompile.lref
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\MainWindow.baml
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\Exercise07.g.resources
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\Exercise07.Properties.Resources.resources
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\Exercise07.csproj.GenerateResource.cache
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\Exercise07.csproj.CoreCompileInputs.cache
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\Exercise07.exe
+C:\Users\Joachim\Dropbox\Workspaces\dotNET Essentials\H13\Opgaven\13_1 & 13_7 & 13_8 & 13_9\Exercise07\obj\Debug\Exercise07.pdb
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\bin\Debug\Exercise07.exe.config
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\bin\Debug\Exercise07.exe
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\bin\Debug\Exercise07.pdb
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\Exercise07.csprojAssemblyReference.cache
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\MainWindow.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\App.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\Exercise07_MarkupCompile.cache
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\Exercise07_MarkupCompile.lref
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\MainWindow.baml
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\Exercise07.g.resources
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\Exercise07.Properties.Resources.resources
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\Exercise07.csproj.GenerateResource.cache
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\Exercise07.csproj.CoreCompileInputs.cache
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\Exercise07.exe
+C:\Users\MMsem\net essentials\Hoofdstuk13\Exercises\Exercise07\obj\Debug\Exercise07.pdb

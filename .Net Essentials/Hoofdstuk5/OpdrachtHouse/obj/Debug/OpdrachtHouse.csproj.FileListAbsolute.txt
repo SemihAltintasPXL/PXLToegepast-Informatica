@@ -1,0 +1,14 @@
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\bin\Debug\OpdrachtHouse.exe.config
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\bin\Debug\OpdrachtHouse.exe
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\bin\Debug\OpdrachtHouse.pdb
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\OpdrachtHouse.csprojAssemblyReference.cache
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\MainWindow.baml
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\MainWindow.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\App.g.cs
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\OpdrachtHouse_MarkupCompile.cache
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\OpdrachtHouse.g.resources
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\OpdrachtHouse.Properties.Resources.resources
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\OpdrachtHouse.csproj.GenerateResource.cache
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\OpdrachtHouse.csproj.CoreCompileInputs.cache
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\OpdrachtHouse.exe
+C:\Users\MMsem\net essentials\Hoofdstuk 5\OpdrachtHouse\obj\Debug\OpdrachtHouse.pdb

@@ -1,0 +1,17 @@
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\Example2Exception.csprojAssemblyReference.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\MainWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\App.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\Example2Exception_MarkupCompile.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\Example2Exception_MarkupCompile.lref
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\bin\Debug\Example2Exception.exe.config
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\bin\Debug\Example2Exception.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\bin\Debug\Example2Exception.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\MainWindow.baml
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\Example2Exception.g.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\Example2Exception.Properties.Resources.resources
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\Example2Exception.csproj.GenerateResource.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\Example2Exception.csproj.CoreCompileInputs.cache
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\Example2Exception.exe
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\Example2Exception.pdb
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\StartWindow.g.cs
+C:\Users\20002375\Documents\Ingrid\C#\20202021\klassen\1TINE\H17\Example2Exception\Example2Exception\obj\Debug\StartWindow.baml
